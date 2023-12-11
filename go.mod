@@ -1,3 +1,5 @@
+module github.com/shkvoretz/decimal
+
 replace  github.com/shopspring/decimal => github.com/shkvoretz/decimal v0.0.0-20200116171404-1b9f5c9b7c9e
 
 go 1.13
